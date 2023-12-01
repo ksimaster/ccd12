@@ -1,10 +1,13 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 public enum OrderType
 {
+
     None,
     Espresso,
     EspressoConPanna,
@@ -33,7 +36,10 @@ public class Order : MonoBehaviour
 
     void Start()
     {
+
+        int randomOrderIndex = Random.Range(1, Enum.GetValues(typeof(OrderType)).Length);
+        orderType = (OrderType)randomOrderIndex;
         image.sprite = sprites[(int)orderType];
-        rectTransform.sizeDelta = new Vector3(sprites[(int)orderType].bounds.size.x*90, sprites[(int)orderType].bounds.size.y*90);
+        rectTransform.sizeDelta = new Vector3(sprites[(int)orderType].bounds.size.x * 90, sprites[(int)orderType].bounds.size.y * 90);
     }
 }

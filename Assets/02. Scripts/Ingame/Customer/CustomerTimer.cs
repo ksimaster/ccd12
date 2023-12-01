@@ -7,7 +7,7 @@ public class CustomerTimer : MonoBehaviour
 {
     [SerializeField] private Image gauge;
 
-    private float time = 20;
+    private float time = 40;
     private float timeSpeed;
 
     private float curTime;
