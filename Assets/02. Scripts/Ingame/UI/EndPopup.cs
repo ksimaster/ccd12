@@ -16,7 +16,7 @@ public class EndPopup : MonoBehaviour
         SoundManager.Instance.PlayEffect("resultstar");
 
         Time.timeScale = 0;
-        stageText.text = "Stage " + ChapterManager.Instance.CurChapter.ToString();
+        stageText.text = "спнбемэ " + ChapterManager.Instance.CurChapter.ToString();
         scoreText.text = Score.Instance.CurScore.ToString();
 
         for(int i=0;i<Score.Instance.CurStar;i++)

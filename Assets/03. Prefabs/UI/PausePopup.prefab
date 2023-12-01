@@ -66,10 +66,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Stage
+  m_text: "\u041F\u0410\u0423\u0417\u0410"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
-  m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
+  m_sharedMaterial: {fileID: -1463183062306773430, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -602,8 +602,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 4}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1.5095978, y: 4}
+  m_SizeDelta: {x: -34.7195, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5151669499265340985
 CanvasRenderer:
@@ -633,10 +633,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uACC4\uC18D\uD558\uAE30"
+  m_text: "\u041F\u0420\u041E\u0414\u041E\u041B\u0416\u0418\u0422\u042C"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
-  m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
+  m_sharedMaterial: {fileID: -1463183062306773430, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -660,10 +660,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 20.95
   m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -737,8 +737,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 3}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1.132103, y: 3}
+  m_SizeDelta: {x: -44.5315, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5151669499359835717
 CanvasRenderer:
@@ -768,10 +768,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB098\uAC00\uAE30"
+  m_text: "\u041C\u0415\u041D\u042E"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
-  m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
+  m_sharedMaterial: {fileID: -1463183062306773430, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -795,12 +795,12 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 25.44
   m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 25.44
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512

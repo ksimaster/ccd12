@@ -351,10 +351,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Score
+  m_text: "\u0421\u0447\u0435\u0442"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
-  m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
+  m_sharedMaterial: {fileID: -1463183062306773430, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -567,10 +567,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Stage
+  m_text: "\u041F\u043E\u0431\u0435\u0434\u0430"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
-  m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
+  m_sharedMaterial: {fileID: -1463183062306773430, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

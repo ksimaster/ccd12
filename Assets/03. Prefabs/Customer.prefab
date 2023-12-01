@@ -561,9 +561,9 @@ MonoBehaviour:
   - {fileID: 447584291, guid: 3fc51a17d3bcd0b419fb651a05277a15, type: 3}
   - {fileID: 114859960, guid: 3fc51a17d3bcd0b419fb651a05277a15, type: 3}
   strings:
-  - "\uC548 \uC2DC\uCF30\uC5B4\uC694!"
-  - "\uC65C \uC8FC\uBB38\uC744 \uC548\uBC1B\uC544\uC918\uC694!"
-  - "\uC798 \uBA39\uC5C8\uC5B4\uC694!"
+  - "\u042D\u0442\u043E \u043D\u0435 \u043C\u043E\u0439 \u0437\u0430\u043A\u0430\u0437!"
+  - "\u042F \u0443\u0445\u043E\u0436\u0443!"
+  - "\u041E\u0442\u043B\u0438\u0447\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430!"
 --- !u!1 &7622738836605988452
 GameObject:
   m_ObjectHideFlags: 0
@@ -738,7 +738,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: test
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: f30502782b178bc40831beb1730debd5, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f4e09671342742c42ab034b6ea70e38d, type: 2}
   m_sharedMaterial: {fileID: 2980836937295851815, guid: f30502782b178bc40831beb1730debd5, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -766,7 +766,7 @@ MonoBehaviour:
   m_fontSize: 28
   m_fontSizeBase: 28
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -802,7 +802,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &8653594708647269207
