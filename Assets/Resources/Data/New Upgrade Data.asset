@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e9c425c2191694fa4e321909f2fba2, type: 3}
+  m_Name: New Upgrade Data
+  m_EditorClassIdentifier: 
+  upgradeList:
+  - upgradeObject: 0
+    upgradeType: 0
+    name: "\u042D\u0441\u043F\u0440\u0435\u0441\u0441\u043E-\u043C\u0430\u0448\u0438\u043D\u0430"
+    sprite: {fileID: 21300000, guid: 637a800c3e9fe93458ef5b6269509688, type: 3}
+    upgrade: 010000000200000003000000
+  - upgradeObject: 1
+    upgradeType: 0
+    name: "\u041F\u0430\u0440\u043E\u0432\u0430\u0440\u043A\u0430 \u0434\u043B\u044F
+      \u043C\u043E\u043B\u043E\u043A\u0430"
+    sprite: {fileID: 21300000, guid: 130817c08a6dfcd46ae25ae5440dcc06, type: 3}
+    upgrade: 0100000002000000
+  - upgradeObject: 2
+    upgradeType: 0
+    name: "\u0414\u0443\u0445\u043E\u0432\u043A\u0430"
+    sprite: {fileID: 21300000, guid: 8db3ef403e49e124aa22ddaaf9f90b87, type: 3}
+    upgrade: 0100000002000000
+  - upgradeObject: 3
+    upgradeType: 0
+    name: "\u0424\u0440\u0443\u043A\u0442\u043E\u0432\u044B\u0439 \u043C\u0438\u043A\u0441\u0435\u0440"
+    sprite: {fileID: 21300000, guid: ecaebab4bdef5e2498f81d9f63ce5dd7, type: 3}
+    upgrade: 010000000200000003000000
+  - upgradeObject: 4
+    upgradeType: 0
+    name: "\u041A\u043E\u0444\u0435\u0439\u043D\u044B\u0439 \u043F\u043E\u0434\u043D\u043E\u0441"
+    sprite: {fileID: 21300000, guid: 1a4f1454d3770c749b26607b9737ff73, type: 3}
+    upgrade: 01000000020000000300000004000000
+  - upgradeObject: 0
+    upgradeType: 1
+    name: "\u042D\u0441\u043F\u0440\u0435\u0441\u0441\u043E-\u043C\u0430\u0448\u0438\u043D\u0430"
+    sprite: {fileID: 21300000, guid: ccf542ba8094a2d40837535c8714fb21, type: 3}
+    upgrade: 0b0000000900000007000000
+  - upgradeObject: 2
+    upgradeType: 1
+    name: "\u0414\u0443\u0445\u043E\u0432\u043A\u0430"
+    sprite: {fileID: 21300000, guid: 8db3ef403e49e124aa22ddaaf9f90b87, type: 3}
+    upgrade: 0e0000000b00000008000000
+  - upgradeObject: 3
+    upgradeType: 1
+    name: "\u0424\u0440\u0443\u043A\u0442\u043E\u0432\u044B\u0439 \u043C\u0438\u043A\u0441\u0435\u0440"
+    sprite: {fileID: 21300000, guid: ecaebab4bdef5e2498f81d9f63ce5dd7, type: 3}
+    upgrade: 110000000e0000000b000000
+  - upgradeObject: 5
+    upgradeType: 2
+    name: "\u041A\u043E\u0444\u0435\u0439\u043D\u044B\u0435 \u0437\u0435\u0440\u043D\u0430"
+    sprite: {fileID: 21300000, guid: 982c94a1ea82a8c469bd20c3975d5cd2, type: 3}
+    upgrade: 1e00000028000000320000003c000000
+  - upgradeObject: 6
+    upgradeType: 2
+    name: "\u0412\u043E\u0434\u0430"
+    sprite: {fileID: 21300000, guid: 650e37d35119b4e42bcc4ea59b5d954a, type: 3}
+    upgrade: 0f00000014000000190000001e000000
+  - upgradeObject: 7
+    upgradeType: 2
+    name: "\u041C\u043E\u043B\u043E\u043A\u043E"
+    sprite: {fileID: 21300000, guid: f5d6cd43f97c91b429c02113371e09f5, type: 3}
+    upgrade: 19000000230000002d00000037000000
+  - upgradeObject: 8
+    upgradeType: 2
+    name: "\u041B\u0435\u0434"
+    sprite: {fileID: 21300000, guid: 3b137289b87554446963874b0d2bc332, type: 3}
+    upgrade: 140000001e0000002800000032000000
+  - upgradeObject: 9
+    upgradeType: 2
+    name: "\u0412\u0437\u0431\u0438\u0442\u044B\u0435 \u0441\u043B\u0438\u0432\u043A\u0438"
+    sprite: {fileID: 21300000, guid: b2fb971171655524f90440105d6f6550, type: 3}
+    upgrade: 140000001e0000002800000032000000
+  - upgradeObject: 10
+    upgradeType: 2
+    name: "\u041F\u043E\u0440\u043E\u0448\u043E\u043A \u0437\u0435\u043B\u0435\u043D\u043E\u0433\u043E
+      \u0447\u0430\u044F"
+    sprite: {fileID: 21300000, guid: af1787f9d85fb8241a3adc39ff0a077d, type: 3}
+    upgrade: 230000002d0000003700000041000000
+  - upgradeObject: 11
+    upgradeType: 2
+    name: "\u041F\u0435\u0447\u0435\u043D\u044C\u0435"
+    sprite: {fileID: 21300000, guid: 75e6c750d37ea7f4ea187d7d0e8354e1, type: 3}
+    upgrade: 2d0000003c0000004b0000005a000000
+  - upgradeObject: 12
+    upgradeType: 2
+    name: "\u0420\u043E\u0433\u0430\u043B\u0438\u043A\u0438"
+    sprite: {fileID: 21300000, guid: 81e75d37b0ed4c14cbabe4b410a0db39, type: 3}
+    upgrade: 37000000460000005500000064000000
+  - upgradeObject: 13
+    upgradeType: 2
+    name: "\u0424\u0440\u0443\u043A\u0442\u044B"
+    sprite: {fileID: 21300000, guid: 295780fa30cabeb44a20da89f1faaf93, type: 3}
+    upgrade: 28000000320000003c00000046000000
