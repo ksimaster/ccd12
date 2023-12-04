@@ -16,4 +16,8 @@ MonoBehaviour:
   - customerType: 0
     orderList: 01000000
   - customerType: 0
+    orderList: 02000000
+  - customerType: 0
+    orderList: 02000000
+  - customerType: 0
     orderList: 01000000

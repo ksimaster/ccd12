@@ -10,7 +10,7 @@ public class PausePopup : MonoBehaviour
 
     private void Awake()
     {
-        stage.text = "Stage " + ChapterManager.Instance.CurChapter.ToString();
+        stage.text = "УРОВЕНЬ " + ChapterManager.Instance.CurChapter.ToString();
     }  
 
     private void OnEnable()

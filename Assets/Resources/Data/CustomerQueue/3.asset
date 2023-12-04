@@ -14,6 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customerList:
   - customerType: 0
-    orderList: 0100000006000000
+    orderList: 0100000001000000
   - customerType: 0
     orderList: 030000000b000000
+  - customerType: 0
+    orderList: 030000000b000000
+  - customerType: 0
+    orderList: 010000000b000000
